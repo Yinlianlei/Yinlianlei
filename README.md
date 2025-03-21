@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![:Yinlianlei](https://count.getloli.com/@:Yinlianlei)
+
 <!--
 **Yinlianlei/Yinlianlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
